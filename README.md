@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm AYUSH SHARMA</h1>
 <h3 align="center">Welcome to my GitHub. I'm an aspiring Developer and Open Source Contributor, who loves computer programming and interacting with the people of similar interest.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush049&label=Profile%20views&color=0e75b6&style=flat" alt="ayush049" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush049&label=Profile%20views&color=0e75b6&style=flat" alt="ayush049" /> </p> -->
 
 <img align="right" alt="readme image" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
