@@ -1,11 +1,11 @@
 <h1 align="center">Hi there👋, I'm AYUSH SHARMA</h1>
 <h3 align="center">Welcome to my GitHub. I'm an aspiring Developer and Open Source Contributor, who loves computer programming and interacting with the people of similar interest.</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush049&label=Profile%20views&color=0e75b6&style=flat" alt="ayush049" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush049&label=Profile%20views&color=0e75b6&style=flat" alt="ayush049" /> </p>
 
 <img align="right" alt="readme image" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <a href="https://twitter.com/@assharma009" target="blank"><img src="https://img.shields.io/twitter/follow/@assharma009?logo=twitter&style=for-the-badge" alt="@assharma009" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/@assharma009" target="blank"><img src="https://img.shields.io/twitter/follow/@assharma009?logo=twitter&style=for-the-badge" alt="@assharma009" /></a> </p> -->
 
 - 📫 How to reach me **ayush.as.sharma09@gmail.com**
 
@@ -26,3 +26,16 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush049&show_icons=true&locale=en&layout=compact" alt="ayush049" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush049&show_icons=true&locale=en" alt="ayush049" /></p>
+
+
+
+</p>
+<p align = "center">
+<a href="https://github.com/ayush049">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush049&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/ayush049">
+
+<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush049&show_icons=true&locale=en&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" alt="ayush049" /></p>
+</a>
+
