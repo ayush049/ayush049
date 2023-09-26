@@ -14,10 +14,6 @@
 <a href="https://twitter.com/@assharma009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@assharma009" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayush-sharma-29687021a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-sharma-29687021a" height="30" width="40" /></a>
 <a href="https://instagram.com/ayush.sharma49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayush.sharma49" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/i_am_ayush04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="i_am_ayush04" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@ayush_as_sharma1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ayush_as_sharma1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/i_am_ayush04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="i_am_ayush04" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ayushsharma09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ayushsharma09" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
