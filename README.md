@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/@assharma009" target="blank"><img src="https://img.shields.io/twitter/follow/@assharma009?logo=twitter&style=for-the-badge" alt="@assharma009" /></a> </p> -->
 
-- 📫 Reach me at -> **ayush.as.sharma09@gmail.com**
+- 📫 Reach me at -> **sharmaayush.work@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
